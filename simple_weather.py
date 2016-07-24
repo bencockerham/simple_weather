@@ -21,6 +21,7 @@ class CityList(object): #object to hold dictionary of city info and IDs
 			10: ['Saint Thomas Island', 7267904]
 			}
 		print 'test'
+		print 'test again'
 #test for commit
 #test2
 	def set_city(self):
